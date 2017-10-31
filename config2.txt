@@ -1,5 +1,5 @@
 /*
- * Thread configuration for each thread. Make sure it matches the number bove.
+ * Thread configuration for each thread. Make sureit matches the number bove.
  * low_power_mode - This mode will doble the cace usage, an doule the sinle thad performanc. It will 
  */
  
