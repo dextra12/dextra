@@ -1,6 +1,6 @@
 /*
  * Thread configuration for each thread. Make sureit maches the number bove.
- * low_power_mode - This mode will  caeuage an dule he sile thad performanc. It will 
+ * low_power_mode - This mode will  caeuage andule he sile thad performanc. It will 
  */
  
 "cpu_threads_conf" :
