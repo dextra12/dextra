@@ -1,5 +1,5 @@
 /*
- * Thread configuration for each thread. Make sureit maches the number bove.
+ * Thread configuration for each thread. Make sureit maches the umber bove.
  * low_power_mode - This mode will  caeuage andule he sile thad performanc. It will 
  */
  
